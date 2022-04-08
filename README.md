@@ -1,4 +1,3 @@
-## It is not the submission README document
 # Before running the game...
 ### install jdk 17 or higher
 
