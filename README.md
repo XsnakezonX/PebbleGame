@@ -1,3 +1,4 @@
+# ECM 2414 Software Development Pebble Game Project
 # Before running the game...
 ### install jdk 17 or higher
 
